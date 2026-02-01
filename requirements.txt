@@ -1,0 +1,11 @@
+#import os
+fastapi
+uvicorn
+pandas
+sqlalchemy
+scikit-learn
+
+
+
+
+#ip install -r requirements.txt
